@@ -7,6 +7,7 @@
 // @match        https://s0urce.io/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=s0urce.io
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
