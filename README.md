@@ -1,2 +1,2 @@
-# outs0urce
-Autotype for s0urce.io with UI integration
+# uns0urce
+Auto type and auto choose target for s0urce.io with custom UI
