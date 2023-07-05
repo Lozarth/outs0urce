@@ -28,7 +28,7 @@
     customDesktopSettingsImage.classList.add('desktop-element-img')
     const customDesktopSettingsTitle = document.createElement('div')
     customDesktopSettingsTitle.classList.add('desktop-element-title')
-    customDesktopSettingsTitle.innerText = 'AutoType'
+    customDesktopSettingsTitle.innerText = 'uns0urce'
     customDesktopSettings.appendChild(customDesktopSettingsImage)
     customDesktopSettings.appendChild(customDesktopSettingsTitle)
     desktopWrapper.appendChild(customDesktopSettings)
@@ -174,7 +174,7 @@
 
 
     const targetMessageInput = document.getElementById('targetmessage-input')
-    targetMessageInput.value = 'smacked by autotype'
+    targetMessageInput.value = 'smacked by uns0urce autotype'
 
     // --- //
 
